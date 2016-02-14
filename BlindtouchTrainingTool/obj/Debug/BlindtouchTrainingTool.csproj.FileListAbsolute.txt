@@ -1,0 +1,14 @@
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\bin\Debug\BlindtouchTrainingTool.exe.config
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\bin\Debug\BlindtouchTrainingTool.exe
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\bin\Debug\BlindtouchTrainingTool.pdb
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\BlindtouchTrainingTool.csprojResolveAssemblyReference.cache
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\MainWindow.g.cs
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\App.g.cs
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\BlindtouchTrainingTool_MarkupCompile.cache
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\BlindtouchTrainingTool_MarkupCompile.lref
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\MainWindow.baml
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\BlindtouchTrainingTool.g.resources
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\BlindtouchTrainingTool.Properties.Resources.resources
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\BlindtouchTrainingTool.csproj.GenerateResource.Cache
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\BlindtouchTrainingTool.exe
+D:\VSWork\BlindtouchTrainingTool\BlindtouchTrainingTool\obj\Debug\BlindtouchTrainingTool.pdb
